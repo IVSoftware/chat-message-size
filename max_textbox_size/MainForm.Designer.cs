@@ -84,7 +84,7 @@ namespace max_textbox_size
             this.Controls.Add(this.MessageField);
             this.Controls.Add(this.textBoxCompose);
             this.Name = "MainForm";
-            this.Text = "Main Form";
+            this.Text = "Chat";
             this.ResumeLayout(false);
             this.PerformLayout();
 
